@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保管庫設立しました"
+title: "test title"
 date: 2024-07-08 01:36:04 +0900
 categories: Announcement
 ---
